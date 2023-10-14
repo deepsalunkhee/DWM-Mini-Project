@@ -3,10 +3,10 @@ from urlextract import URLExtract
 from wordcloud import WordCloud
 import pandas as pd
 from collections import Counter
-import emoji
+
 import altair as alt
 
-# Create an instance of URLExtract for extracting URLs from messages
+# Create an instance of URpipLExtract for extracting URLs from messages
 extract = URLExtract()
 
 # Define a function to fetch statistics for the selected user
