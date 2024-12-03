@@ -1,5 +1,5 @@
-Certainly! Here's a template for a README file for your WhatsApp Chat Analyzer project:
-
+### Note: 
+- This is a part of labwork of my Semester 5 course Data warehousing and mining as I donot plan to make any changes here I am archiving this ✌🏽.
 # WhatsApp Chat Analyzer
 
 WhatsApp Chat Analyzer is a tool that helps you analyze and visualize statistics from your WhatsApp chat data. You can gain insights into message frequencies, word usage, media sharing, and more. This project is built using Python and Streamlit.
